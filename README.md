@@ -8,3 +8,8 @@ https://www.udemy.com/course/django-python-advanced/
 superuser:
 admin@example.com
 passabc123
+
+user:
+user@example.com
+pass123pass
+donkey boy
