@@ -13,3 +13,5 @@ user:
 user@example.com
 pass123pass
 donkey boy
+
+I don't like this course!
